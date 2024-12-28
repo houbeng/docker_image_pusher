@@ -1,2 +1,2 @@
 bitnami/redis
-bitnami/zookeeper:sha256-4d450d4b1dab610e1012993d2ea78ba00a516b63e74214a57fef40c060ce4986
+bitnami/zookeeper:3.8.4-debian-12-r17
